@@ -1,0 +1,340 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\ajax\libs\jquery\1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:a0a074f5a115166d8660cb55817692c30dba937f07c3e990a28ca80d0c2dbe1a&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&display=swap
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&display=swap);@import url(../vendor/font-awesome/css/font-awesome.min.css);@import url(../vendor/bootstrap/css/bootstrap.css);@import url(../vendor/animate/animate.css);@import url(../vendor/owl-carousel/owl.carousel.css);@import url(../vendor/owl-carousel/owl.theme.css);@import url(../vendor/owl-carousel/owl.transitions.css);@import url(../vendor/hero-slider/css/style.css);html{height:100%25}body{height:100%25;margin:0;font-family:'Open Sans Condensed',sans-serif;font-weight:300;font-size:15px}
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmDuXMQg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMQg.ttf
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMQg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8Rb2Q.ttf
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\s\opensanscondensed\v23\z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suD8Rb2Q.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/1878580
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\watch\1878580
+Content Type: image/gif
+
+Uri: https://robin-ruth.ru/
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\index.htm
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/cart
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\cart.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/contacts
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\contacts.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/css/custom.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\css\custom.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/css/style.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\css\style.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/css/styles/lunar.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\css\styles\lunar.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/delivery
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\delivery.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/files/business_card.pdf
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\files\business_card.pdf
+Content Type: application/pdf
+
+Uri: https://robin-ruth.ru/images/avito.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\avito.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/avito2.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\avito2.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/favicon.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\favicon.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/main2.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\main2.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/payments/payment-mastercard.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-mastercard.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/payments/payment-mir.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-mir.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/payments/payment-qiwi.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-qiwi.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/payments/payment-visa.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-visa.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/payments/payment-webmoney.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-webmoney.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/payments/payment-yandex.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\payments\payment-yandex.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/images/promotions/23February2022.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\23February2022.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/8march2022.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\8march2022.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/coolsale.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\coolsale.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/free_shipping.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\free_shipping.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/ILoveRobinRuth.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\ILoveRobinRuth.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/june2022.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\june2022.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/may2022.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\may2022.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/NewYear2023.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\NewYear2023.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/social.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\social.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/summer2022.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\summer2022.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/promotions/summer2023.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\promotions\summer2023.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/images/templ/5.webp
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\templ\5.webp
+Content Type: 
+
+Uri: https://robin-ruth.ru/images/templ/amsRRweb.webp
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\templ\amsRRweb.webp
+Content Type: 
+
+Uri: https://robin-ruth.ru/images/youtube_video.jpg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\images\youtube_video.jpg
+Content Type: image/jpeg
+
+Uri: https://robin-ruth.ru/js/edura.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\js\edura.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/js/maskedinput/jquery.maskedinput.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\js\maskedinput\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/js/robin.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\js\robin.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/login
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\login.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/partners/join-us
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\partners\join-us.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/password/reset
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\password\reset.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/payment_methods
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\payment_methods.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/promotions
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\promotions.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/register
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\register.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/rules
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\rules.html
+Content Type: text/html
+
+Uri: https://robin-ruth.ru/vendor/animate/animate.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap-hover-dropdown\bootstrap-hover-dropdown.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/css/bootstrap.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: https://robin-ruth.ru/vendor/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/counterup/jquery.counterup.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\counterup\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/css/font-awesome.min.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.eot
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://robin-ruth.ru/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://robin-ruth.ru/vendor/hero-slider/assets/cd-icon-navigation.svg
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\hero-slider\assets\cd-icon-navigation.svg
+Content Type: image/svg+xml
+
+Uri: https://robin-ruth.ru/vendor/hero-slider/css/style.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\hero-slider\css\style.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/hero-slider/js/main.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\hero-slider\js\main.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/hero-slider/js/modernizr.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\hero-slider\js\modernizr.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/imagesloaded/imagesloaded.pkgd.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/jquery/jquery.filterizr.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\jquery\jquery.filterizr.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/AjaxLoader.gif
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/grabbing.png
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/owl.carousel.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/owl.carousel.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/owl.theme.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/owl-carousel/owl.transitions.css
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\owl-carousel\owl.transitions.css
+Content Type: text/css
+
+Uri: https://robin-ruth.ru/vendor/waypoints/waypoints.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vendor/wow/wow.min.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vendor\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://robin-ruth.ru/vozvrat
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\vozvrat.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\fanto\OneDrive\Desktop\Новая папка (3)\robin-ruth.ru\recaptcha\api.js
+Content Type: text/javascript
+

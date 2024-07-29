@@ -1,0 +1,184 @@
+#pricing-1 .top, #services-4 .feature i, .arrow-nav a, .bg-dark, .cd-hero .container h1, .cd-hero .container h2, .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover, .navbar-default .btn-link:focus, .navbar-default .btn-link:hover, .navbar-default .dropdown-header, .navbar-default .dropdown-menu>li>a, .navbar-default .navbar-brand, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text, .pagination li a:active, .pagination li a:focus, .pagination li a:hover, .pagination li.active a, .pagination li.active a:active, .pagination li.active a:focus, .pagination li.active a:hover, .panel-default>.panel-heading, .portfolio-item .portfolio-top .portfolio-tag, .portfolio-item .portfolio-top .portfolio-tag a, .portfolio-item .portfolio-top ul li a, .portfolio-item-desc, .portfolio-item-desc a, .product-item .product-item-top .product-item-tag, .product-item .product-item-top .product-item-tag a, .product-item .product-item-top ul li a, .team-item .team-top ul li a, navbar-default .navbar-link:hover, pre {
+    color: #fff
+}
+
+#footer a:hover, .navbar-default .btn-link, .navbar-default .dropdown-menu>li>a:focus, .navbar-default .dropdown-menu>li>a:hover, .navbar-default .navbar-link, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .portfolio-item .portfolio-top .portfolio-tag a:hover, .portfolio-item-desc a:hover, .product-item .product-item-top .product-item-tag a:hover, footer a:active {
+    color: #ddd
+}
+
+#footer a, .navbar-default .navbar-nav>.disabled>a, .navbar-default .navbar-nav>.disabled>a:focus, .navbar-default .navbar-nav>.disabled>a:hover {
+    color: #ccc
+}
+
+#blog-grid .blog-meta, #blog-list .blog-meta, #blog-single .blog-meta, #title .breadcrumbs, .bigfeature-heading .text-muted, .portfolio-controls li, blockquote::before {
+    color: #888
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover, a, blockquote {
+    color: #666
+}
+
+#services-4 .feature p {
+    color: #555
+}
+
+.bigfeature-heading, .bigfeature-icon, .pagination li a, .portfolio-item .portfolio-top ul li a:hover, .product-item .product-item-top ul li a:hover, .product-item-inner .product-price, .team-item .team-top ul li a:hover, a:active, a:focus, a:hover {
+    color: #333
+}
+
+#services-4 .feature h4 {
+    color: #222
+}
+
+#services-3 .big-icon:hover, .list-group-item.active>.badge, .nav-pills>.active>a>.badge {
+    color: #111
+}
+
+.portfolio-controls li.active {
+    color: #000
+}
+
+#counters i, #services-2 h4 b, .big-icon, .bigfeature-icon, .preloader-animation, h1 b, h2 b, h3 b, h4 b {
+    color: #333
+}
+
+#services-3 .big-icon:hover {
+    color: #555
+}
+
+#call-to-action h1 b, #call-to-action h2 b, #call-to-action h3 b, #call-to-action h4 b, #intro h1 b, #intro h2 b, #intro h3 b, #intro h4 b {
+    color: #fff
+}
+
+.list-group-item.active>.badge, .nav-pills>.active>a>.badge, .portfolio-item .portfolio-top ul li a:hover, .product-item .product-item-top ul li a:hover, .team-item .team-top ul li a:hover {
+    background-color: #fff
+}
+
+#title, .bg-gray {
+    background-color: #eee
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ddd
+}
+
+#pricing-1 .top, .panel-default>.panel-heading {
+    background-color: #aaa
+}
+
+#pricing-1 .featured .top, #services-4 .feature i, .bg-dark, .pagination li a:active, .pagination li a:focus, .pagination li a:hover, .pagination li.active a, .pagination li.active a:active, .pagination li.active a:focus, .pagination li.active a:hover, .portfolio-item .portfolio-top ul li a, .product-item .product-item-top ul li a, .team-item .team-top ul li a {
+    background-color: #333
+}
+
+.btn-primary, .label-primary, .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover, .progress-bar-primary {
+    background-color: #111
+}
+
+.btn-primary:active, .btn-primary:active:focus, .btn-primary:focus, .btn-primary:hover, .btn-primary:target, .navbar-default .divider, .navbar-default .dropdown-menu>li>a:focus, .navbar-default .dropdown-menu>li>a:hover, .navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .owl-theme .owl-controls .owl-buttons div, pre {
+    background-color: #000
+}
+
+.cd-hero .container h2, .navbar-default, .portfolio-item .portfolio-top .mask, .portfolio-item-desc, .product-item .product-item-top .mask, .team-item .team-top .mask {
+    background-color: rgba(0, 0, 0, .6)
+}
+
+#footer, .arrow-nav a:hover, .bg-mask-black, .dropdown-menu>li.active>a, .navbar-default .dropdown-menu, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-toggle {
+    background-color: rgba(0, 0, 0, .8)
+}
+
+.arrow-nav a {
+    background-color: rgba(0, 0, 0, .3)
+}
+
+#footer {
+    background-color: rgba(0, 0, 0, .8)
+}
+
+#blog-grid .blog-meta, #blog-list .blog-meta, #blog-single .blog-meta, #pricing-1 ul li, #pricing-2 ul li, #pricing-3 ul li {
+    border-color: #ddd
+}
+
+#blog-grid .blog-item, #blog-list .blog-item, #shop .product-item, .reviews-list .media-body, .widget h4 {
+    border-color: #ccc
+}
+
+#blog-grid .blog-item:hover, #blog-list .blog-item:hover, #shop .product-item:hover {
+    border-color: #bbb
+}
+
+#pricing-1 .price, #pricing-2 .price, #pricing-3 .price {
+    border-color: #aaa
+}
+
+.form-control:focus, blockquote {
+    border-color: #999
+}
+
+#pricing-1 .featured, #pricing-2 .featured, #pricing-3 .featured {
+    border-color: #555
+}
+
+.pagination li a:active, .pagination li a:focus, .pagination li a:hover, .pagination li.active a, .pagination li.active a:active, .pagination li.active a:focus, .pagination li.active a:hover {
+    border-color: #333
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:active:focus, .btn-primary:focus, .btn-primary:hover, .btn-primary:target, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .panel-default>.panel-heading {
+    border-color: #000
+}
+
+.btn {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .1)
+}
+
+.form-control:focus {
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .2), 0 0 8px rgba(0, 0, 0, .19);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .2), 0 0 8px rgba(0, 0, 0, .19)
+}
+
+.cd-hero .container {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .9)
+}
+
+#blog-grid .blog-item:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+#blog-list .blog-item:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+#shop .product-item:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+@media (max-width:767px) {
+    .navbar-collapse {
+        background-color: rgba(0, 0, 0, .8);
+        border-color: #000
+    }
+
+    .navbar-default .navbar-nav>li>a {
+        color: #eee
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu, .navbar-default .navbar-nav .open .dropdown-submenu {
+        background-color: rgba(0, 0, 0, .8)
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #ddd
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #fff
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>.active>a, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover {
+        color: #ddd;
+        background-color: #000
+    }
+
+    .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a, .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover {
+        color: #ccc
+    }
+}

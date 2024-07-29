@@ -1,0 +1,182 @@
+/*ПОДУМАТЬ НАД ВЫГРУЗКОЙ ДЛЯ ЛОКАЛЬНОЙ РАБОТЫ*/
+
+/* cyrillic */
+/* @font-face {*/
+/*    font-family: 'Open Sans Condensed for local';*/
+/*    font-style: normal;*/
+/*    font-weight: 300;*/
+/*    src: local('Open Sans Condensed Light'), local('OpenSansCondensed-Light'), url("./OpenSansCondensed.woff2") format('woff2');*/
+/*    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;*/
+/*} */
+
+/* CUSTOM CSS GOES HERE
+----------------------------------------------------------*/
+a:hover{
+    color:orange;
+}
+a.link {
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+a.link:hover{
+    color:orange;
+}
+#title .breadcrumbs {
+    padding-top: 34px;
+    font-size: 14px;
+    color: #888;
+}
+
+.product-item .product-item-top {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    max-height: 350px;
+    min-height: 350px;
+}
+    @media only screen and (max-width: 767px) {
+         
+    }
+.product-item  .product-item-top.related{
+    max-height: 250px;
+    min-height: 250px;
+}
+.product-item .product-item-top .product_labels{
+    position:absolute;
+    top:5px;
+    right:-2px;
+}
+.product-item .product-item-top .product_labels .label{
+    margin-top:10px !important;
+    font-size:1.2em;
+    border-radius:0 0 0 1.2em;
+    -moz-border-radius-bottomleft:1.2em;
+}
+
+.img-responsive {
+    background-size: cover;
+}
+
+.products-list .media .media-body {
+    vertical-align: middle;
+}
+
+.clear{
+    clear: both;
+}
+
+.invalid-feedback{
+    color:#D9534F;
+}
+
+#content {
+    min-height: 450px;
+}
+
+div.error, div.error a{
+    color: red;
+    font-weight:bold;
+}
+
+input.error, textarea.error{
+    background-color: #FCD5B4;
+}
+input.success{
+    background-color: #E2FFA0;
+}
+
+#messages, #error_msg{
+    z-index: 1000;
+    position: fixed;
+    top:155px;
+    right:25px;
+    margin:auto;
+    max-width:400px;
+    min-width: 250px;
+}
+#error_msg{
+    display:none;
+}
+
+tr.middle td{
+    vertical-align: middle !important;
+}
+
+.payments_list li{
+    display: inline-block;
+    margin: 0 5px 0 5px;
+    padding-top: 0px !important;
+}
+.payments_list li img{
+    height: 18px;
+}
+
+.categories_sidebar{
+    font-size: 16px;
+}
+.categories_sidebar li{
+    cursor: pointer;
+}
+.categories li{
+    font-size: 16px;
+}
+    .categories .category_product_count{
+        font-size: 14px;
+        padding-top: 2px;
+    }
+
+/* todo сделать правила для популярных медиа и протестировать ... */
+@media screen and (max-width: 767px) {
+    .mobile-hide{
+        display: none;
+    }
+    #messages, #error_msg{
+        width:80%;
+        top:65px;
+        right:0px;
+    }
+}
+
+.cookie_notice {
+    border: 1px solid #DADADA;
+    display: block;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #EEE;
+    width:100%;
+    min-height: 10px;
+    padding: 20px;
+    opacity: 1;
+    z-index: 9999999;
+    font-size: 1.1em;
+}
+.cookie_notice a {
+    text-decoration: underline;
+}
+.cookie_notice a:hover {
+    color:black;
+}
+.cookie_notice_close{
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.youtube-video a:hover img{
+    opacity: 0.8;
+}
+
+.telegram:hover{
+    color:#3390EC;
+}
+.avito img:hover{
+    opacity: 1;
+}
+.avito img{
+    opacity: 0.75;
+}
